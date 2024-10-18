@@ -4,10 +4,5 @@
         {"src":"*.js", "use":"@version/node"}
     ],
     "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
-    // "routes": [
-    //     {
-    //         "src":"/(.*)",
-    //         "dest":"/api/index.js"
-    //     }
-    // ]
+    
 }
